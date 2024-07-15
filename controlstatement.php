@@ -60,7 +60,13 @@ echo "<br>";
 // Add numbers in an array 
 $sum = 0;
 $numarrs = array(10,20,5,5,20,10);
+
 foreach ($numarrs as $arr){
+
 $sum  = $sum + $arr;
+
 }
 echo "total sum-".$sum;
+
+// functions 
+// OOPS
